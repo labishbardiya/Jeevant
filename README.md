@@ -1,4 +1,4 @@
-# 🏥 Jeevant: Agentic Healthcare Intelligence
+# 🏥 Agentic Healthcare Intelligence
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js%2015-black?logo=next.js)](https://nextjs.org/)
