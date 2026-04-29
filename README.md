@@ -5,7 +5,7 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Bhashini](https://img.shields.io/badge/Translation-Bhashini-blue)](https://bhashini.gov.in/)
 
-**Jeevant** (meaning *Life-giving*) is an AI-powered healthcare intelligence platform designed to bridge the accessibility gap in rural India. By transforming thousands of unstructured facility records into a trust-scored, multi-lingual network, Jeevant empowers healthcare administrators and citizens to identify and navigate "medical deserts."
+**It is an AI-powered healthcare intelligence platform designed to bridge the accessibility gap in rural India. By transforming thousands of unstructured facility records into a trust-scored, multi-lingual network, Jeevant empowers healthcare administrators and citizens to identify and navigate "medical deserts."
 
 ---
 
